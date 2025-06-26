@@ -44,6 +44,13 @@ A music platform requires fast and reliable insights into user listening behavio
 
 ---
 
+Dag graph
+
+<p align="center">
+  <img src="images/dag-graph.jpeg" alt="Architecture Diagram" width="750">
+</p>
+---
+
 ##  User Stories
 
 * As a **Data Engineer**, I want to:
