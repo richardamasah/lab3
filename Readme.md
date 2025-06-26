@@ -47,7 +47,7 @@ A music platform requires fast and reliable insights into user listening behavio
 Dag graph
 
 <p align="center">
-  <img src="images/dag-graph.jpeg" alt="Architecture Diagram" width="750">
+  <img src="images/dag-run1.png" alt="Architecture Diagram" width="750">
 </p>
 ---
 
